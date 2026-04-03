@@ -1,4 +1,4 @@
-# Interactive-Dashboards-on-Power-BI
+# Interactive-Reports-on-Power-BI
 These projects consists of interactive  dashboard on Power BI that utilizes essential visualisation to effectively communicate performance insights.
 
 
